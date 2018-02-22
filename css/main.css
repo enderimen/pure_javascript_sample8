@@ -9,5 +9,15 @@
 }
 
 body{
+	background-color: pink;
+	cursor: pointer;
+	position: relative;
+	font-family: Tahoma;
+}
 
+h2{
+	text-align: center;
+	margin: 1% auto;
+	user-select: none;
+	color: #fff;
 }
